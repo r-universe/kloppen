@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rde"]
+	path = rde
+	url = https://github.com/kloppen/rde
+	shallow = true
+	registered = true
